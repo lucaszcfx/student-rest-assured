@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="firstSuite" duration-ms="3207" started-at="2019-10-25T18:06:05 BRT" finished-at="2019-10-25T18:06:08 BRT">
+    <groups>
+    </groups>
+    <test name="particularTestClasses" duration-ms="3207" started-at="2019-10-25T18:06:05 BRT" finished-at="2019-10-25T18:06:08 BRT">
+      <class name="test.StudentTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:test.StudentTest@a7e666]" name="init" is-config="true" duration-ms="412" started-at="2019-10-25T18:06:05 BRT" finished-at="2019-10-25T18:06:05 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="postApartments()[pri:0, instance:test.StudentTest@a7e666]" name="postApartments" duration-ms="2662" started-at="2019-10-25T18:06:05 BRT" finished-at="2019-10-25T18:06:08 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postApartments -->
+        <test-method status="PASS" signature="getApartments()[pri:1, instance:test.StudentTest@a7e666]" name="getApartments" duration-ms="97" started-at="2019-10-25T18:06:08 BRT" finished-at="2019-10-25T18:06:08 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getApartments -->
+      </class> <!-- test.StudentTest -->
+    </test> <!-- particularTestClasses -->
+  </suite> <!-- firstSuite -->
+</testng-results>
